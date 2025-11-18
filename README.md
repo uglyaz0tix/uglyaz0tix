@@ -31,13 +31,13 @@
 
 ---
 
-### [ АКТИВНОСТЬ КОДА ]
+### [ КОДОВАЯ АКТИВНОСТЬ ]
 
 <p align="center">
     <img src="https://github.com/uglyaz0tix/uglyaz0tix/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
-### [ АНАЛИЗ ЛАНГОВ ]
+### [ АНАЛИЗ КОДА ]
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uglyaz0tix&layout=compact&theme=radical" alt="Top Langs">
