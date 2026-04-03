@@ -1,48 +1,29 @@
-<h1 align="center">[[ USER_ID: UGLYAZ0TIX ]] ACCESS GRANTED █</h1>
-<p align="center">
-    <i>// Системный разработчик, который создает инструменты между делом //</i>
-</p>
+# я uglyazotix, сам в ахуе
+
+я фуллстек, боюсь женщин
 
 ---
 
-<h2 align="center">▣ СТАТУС СИСТЕМЫ ▣</h2>
-
-| Сектор | Детализация |
-| :--- | :--- |
-| **CURRENT_TASK** | Distoolz - Ultimate Discord Status Manager |
-| **LEARNING_PROTOCOL** | Python, PyQt, Minecraft анимации |
-| **CASUAL_FACT** | Я случайно начал программировать. Реально случайно пошел в коддинг |
-| **FAVORITE_OS** | Rust (в игру, а не язык) |
-| **FAILURE_RATE** | 101 заброшенный проект. (но это только начало) |
+## стек
+* **языки:** русский нах, жава, жабаскрипт, плюсы, сиси, сишарп, много крч
+* **софтецкий:** визуал студио, гит, вскод
+* **системы:** я вышкрубываю иголочкой по харду данные какое ос бля
 
 ---
 
-<h2 align="center"> >> ЖИВОЙ ПОРТФОЛИО | ACCESS_POINT: DORKWEB.FUN << </h2>
-
-<p align="center">
-    <a href="https://dorkweb.fun" target="_blank">
-        <img src="https://img.shields.io/badge/DORKWEB.FUN-SYSTEM_ONLINE-58a6ff?style=for-the-badge&logo=cloudflare&logoColor=black&labelColor=0d1117" alt="Dorkweb.fun is online">
-    </a>
-</p>
-
-<p align="center">
-    <i>// Внимание: для лучшего опыта используйте ландшафтный режим //</i>
-</p>
+## стата
+![uglyaz0tix's stats](https://github-readme-stats.vercel.app/api?username=uglyaz0tix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
-### [ КОДОВАЯ АКТИВНОСТЬ ]
-
-<p align="center">
-    <img src="https://github.com/uglyaz0tix/uglyaz0tix/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
-### [ АНАЛИЗ КОДА ]
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uglyaz0tix&layout=compact&theme=radical" alt="Top Langs">
-</p>
+## занимаюсь
+* пинаю члены
 
 ---
 
-> "Просто решил сделать что-то полезное. Иногда получается."
+## связь
+* нету ебать, блокнули
+
+---
+
+> "код типа юмор, когда ты его имеешь.. еблан женщин надо иметь а не код"
