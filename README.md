@@ -1,6 +1,6 @@
-# 👋 я uglyazotix, сам в ахуе
+# 👋 я uglyazotix
 
-я фуллстек, боюсь женщин
+боюсь женщин
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 
 ## 📊 стата
-![ну, стата ебанный сыр](https://github-readme-stats.vercel.app/api?username=uglyaz0tix&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![ну стата ебанный сыр](https://github-readme-stats.vercel.app/api?username=uglyaz0tix&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
@@ -22,8 +22,9 @@
 ---
 
 ## 📫 связь
-* нету ебать, блокнули
+* <img width="736" height="733" alt="image" src="https://github.com/user-attachments/assets/b7d5f909-8e75-4673-b758-bda4f4697371" />
+
 
 ---
 
-> "код типа юмор, когда ты его имеешь.. еблан женщин надо иметь а не код"
+> "код типа юмор, когда ты его имеешь.. ай забыл"
